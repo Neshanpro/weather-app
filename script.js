@@ -1,1 +1,0 @@
-document.getElementById(weather).innerText("sdafhbiabf")
